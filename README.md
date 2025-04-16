@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Anshika+Saklani...;This+is+my+profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Akriti Rawat...;This+is+my+profile!&center=true&size=30">
   </a>
 </h1>
 
@@ -11,9 +11,9 @@
 
 🌱 Always striving to grow and improve as a full stack developer  
 
-📫 Let's connect! Reach me at anshikasaklani894@gmail.com
+📫 Let's connect! Reach me at akritirawat424@gmail.com
 
-📫 Also contact at www.linkedin.com/in/anshika-saklani-77a5a626a
+📫 Also contact at (https://www.linkedin.com/in/akriti-rawat-2bb9b2321/)
 
 
 <!--
